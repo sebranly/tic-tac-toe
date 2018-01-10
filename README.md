@@ -3,11 +3,7 @@ Tic Tac Toe is a famous 2D game I reproduced in React by following the official 
 
 ## Credits
 
-Exceptionally compared to my other contributions on GitHub, for this repository I simply followed a [tutorial](https://reactjs.org/tutorial/tutorial.html)
-
-## Structure
-
-The Square component renders a single <button>, the Board renders 9 squares, and the Game component renders a board with some placeholders
+Exceptionally compared to my other contributions on GitHub, for this repository I simply followed a [tutorial](https://reactjs.org/tutorial/tutorial.html). The goal behind that is creating my own commits to see how the app evolved over steps.
 
 ## Installation
 
@@ -23,7 +19,6 @@ In order to start a local server, I can run `yarn start` and access my React app
 ## Structure of the React app
 
 There are three React components being used:
-- the `Square` component renders a single <button>
+- the `Square` component renders a single `<button>`
 - the `Board` renders 9 squares
 - the `Game` component renders a board with some placeholders
-
