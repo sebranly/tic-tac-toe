@@ -7,7 +7,7 @@ Exceptionally compared to my other contributions on GitHub, for this repository 
 
 ## Installation
 
-My development environment was setup by following this [tutorial](https://openclassrooms.com/courses/build-web-apps-with-reactjs/use-create-react-app-to-build-your-react-app).
+My development environment was setup by following this [other tutorial](https://openclassrooms.com/courses/build-web-apps-with-reactjs/use-create-react-app-to-build-your-react-app).
 I installed three main elements on my Windows Machine:
 - NodeJS
 - Yarn
@@ -22,3 +22,7 @@ There are three React components being used:
 - the `Square` component renders a single `<button>`
 - the `Board` renders 9 squares
 - the `Game` component renders a board with some placeholders
+
+## Limitations of this project
+
+I didn't invest time yet on new features recommended at the [end of the tutorial](https://reactjs.org/tutorial/tutorial.html#wrapping-up)
